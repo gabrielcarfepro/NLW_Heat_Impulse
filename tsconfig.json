@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": false, // não precisa do strict que mostra variáveis que não etamos utilizando (o ts ja faz)
+    "skipLibCheck": true
+  }
+}
